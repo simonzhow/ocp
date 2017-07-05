@@ -1,0 +1,22 @@
+package com.ticketmaster.ds.seat;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.ticketmaster.domain.listing.Listing;
+
+import java.util.List;
+
+import static com.fasterxml.jackson.annotation.JsonInclude.Include.NON_NULL;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
+    @JsonInclude(NON_NULL)
+    public class event_data {
+	
+	//Figure out size from front end
+	private String image;
+	private String date;
+	private String time;
+
+	private 
+	

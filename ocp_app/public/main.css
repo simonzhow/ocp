@@ -1,0 +1,83 @@
+header {
+  background-color: #009cde;
+}
+
+#site-header {
+  background-color: #009cde;
+  height: 80px;
+}
+
+#site-header #site-logo {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+#site-account {
+  display:inline;
+  position:absolute;
+  right:200px;
+  top:15px;
+  font-size:13pt;
+  font-family: TM Sans, sans-serif;
+  color:#FFF;
+}
+
+
+#ccinfo {
+  font-size:13pt;
+  line-height:20px;
+  font-family: TM Sans, sans-serif;
+  color:#FFF;
+}
+
+#ccicon {
+  display:inline;
+  position:absolute;
+  right:120px;
+  top:20px;
+}
+
+#ccnum {
+  display:inline;
+  position:absolute;
+  right:65px;
+  top:30px;
+}
+
+#qty {
+  display:inline;
+  position:absolute;
+  right:430px;
+  top:30px;
+}
+
+#qty-plus {
+  display:inline;
+  position:absolute;
+  right:390px;
+  top:20px;
+}
+
+#qty-minus {
+  display:inline;
+  position:absolute;
+  right:355px;
+  top:20px;
+}
+
+h1 {
+  color: #009cde;
+}
+
+#icons {
+  text-align: center;
+}
+
+#icons .fa {
+  padding-top: 10px;
+  color: #009cde;
+}
+
+#icons .fa:hover {
+  color: #1085b7;
+}
