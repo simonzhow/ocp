@@ -14,7 +14,7 @@ class ViewFeed extends Component {
     super(props);
     this.state = {
       /* we should probably load json into this array... */
-      eventName: ['Martin Garrix'], /* should only populate first 5 */
+      eventName: [], /* should only populate first 5 */
       eventTime: [],
       eventImage: [],
       eventVenue: [],
