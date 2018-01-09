@@ -12,6 +12,6 @@ In hackathon folder, run 'mvn spring-boot:run'
 
 ## Demo
 
-https://www.youtube.com/watch?v=siaohFosaws
+https://youtu.be/FGqE531eP-U
 
 *© 1999-2017 Ticketmaster. All rights reserved.*
